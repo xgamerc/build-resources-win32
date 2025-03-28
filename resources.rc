@@ -1,0 +1,9 @@
+#include "Resources.hpp"
+#define APSTUDIO_READONLY_SYMBOLS
+#include <winres.h>
+#undef APSTUDIO_READONLY_SYMBOLS
+// English (United States) resources
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+IDI_APPICON             ICON                    "OGL.ico"
+#endif    // English (United States) resources
